@@ -1,0 +1,15 @@
+a {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 30%;
+  }
+img {
+  width: 400px;
+  height: 600px;
+  
+}
